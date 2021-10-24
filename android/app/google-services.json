@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154183874852",
+    "project_id": "jogos-avenida",
+    "storage_bucket": "jogos-avenida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154183874852:android:2d88437c3fe02fd4e0dbb1",
+        "android_client_info": {
+          "package_name": "com.example.jogos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154183874852-sn2vnqqn9f1l4nomknu0v065s4oohqlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1daM0fw5iuaGZabmwUGhybrDaeQDL8I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154183874852-sn2vnqqn9f1l4nomknu0v065s4oohqlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
